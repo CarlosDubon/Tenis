@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tenis</string>
+    <string name="text_playerA">Player A</string>
+    <string name="text_playerB">Player B</string>
+    <string name="text_pointA">Point</string>
+    <string name="text_set">SET</string>
+    <string name="text_game">GAME</string>
+    <string name="text_reset">Reset</string>
+</resources>
